@@ -2,3 +2,5 @@
 A sample code from my medium article :D
 
 Check it out [here](https://proandroiddev.com/is-onactivityresult-deprecated-in-activity-results-api-lets-deep-dive-into-it-302d5cf6edd)!
+
+For Google Doc check out this [Result from an activity](https://developer.android.com/training/basics/intents/result)
